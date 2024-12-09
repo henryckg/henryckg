@@ -41,5 +41,4 @@
 
 ### ⚡ Fun Fact
 
-I'm a sound technician (yes, the kind who works at concerts and records music). 
-
+I’m also a sound technician (yes, the guy you see at concerts picking up cables backstage).
