@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-
+- 🧑🏻‍💻 **Currently working on:** **[Motorplan Web](https://github.com/Master-Insight/motorplan-web)**
 - 💻 **Stack:** React, Astro, Node.js, Express, MongoDB, MySQL  
 - 🌐 **Deployments:** Cloudflare, Vercel  
 - 🎧 **Interests:** Tech and music  
