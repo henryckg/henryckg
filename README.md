@@ -35,7 +35,7 @@
 
 - 📧 **Email:** [guaramatohenryck@gmail.com](mailto:guaramatohenryck@gmail.com)  
 - 💼 **LinkedIn:** [henryckg](https://www.linkedin.com/in/henryckg)  
-- 🌐 **Portfolio:** ...working on it.
+- 🌐 **Portfolio:** [henryck.dev](https://www.henryck.dev) ...working on it.
 
 ---
 
