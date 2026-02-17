@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🧑🏻‍💻 **Currently working on:** **[Córtame App](https://github.com/henryckg/cortame-app)** - Web application for shortening URLs. Participating in the Midudev hackathon by Clerk.
+- 🧑🏻‍💻 **Currently working on:** **[AI PDF Translator](https://github.com/henryckg/pdf-ai-translator)** - AI-powered PDF translation web app built with Next.js
 - 💻 **Stack:** React, Astro, Node.js, Express, MongoDB, MySQL.  
 - 🌐 **Deployments:** Cloudflare, Vercel  
 - 🎧 **Interests:** Tech and music  
@@ -17,10 +17,11 @@
 
 ### 📝 Projects I've Collaborated On
 
-1. **[Motorplan Web](https://github.com/Master-Insight/motorplan-web)** - Landing page for a capitalization and savings company (Argentina).
-2. **[LinguaLab](https://github.com/FooTalent/Lingualab)** – A web application designed for language teachers.
-3. **[IdeasPropias](https://github.com/Master-Insight/page-ideaspropias)** – Landing page for a business consultancy.
-4. **[RAM Salud Mental](https://github.com/Joeshi02/Proyecto-Ram-)** – A mental health clinic website where patients can book medical appointments using Calendly.
+1. **[Córtame App](https://github.com/henryckg/cortame-app)** - Web application for shortening URLs. Participating in the Midudev hackathon by Clerk.
+2. **[Motorplan Web](https://github.com/Master-Insight/motorplan-web)** - Landing page for a capitalization and savings company (Argentina).
+3. **[LinguaLab](https://github.com/FooTalent/Lingualab)** – A web application designed for language teachers.
+4. **[IdeasPropias](https://github.com/Master-Insight/page-ideaspropias)** – Landing page for a business consultancy.
+5. **[RAM Salud Mental](https://github.com/Joeshi02/Proyecto-Ram-)** – A mental health clinic website where patients can book medical appointments using Calendly.
 ---
 
 ### 🛠 Skills
